@@ -1,4 +1,5 @@
 node_modules
+public/vendors/*
 .env
 config/environment/dev.env
 notes
